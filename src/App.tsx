@@ -19,10 +19,6 @@ function App() {
   };
 
   const addPost = (newPost: IPost) => {
-    setPosts([
-      ...posts,
-      { ...newPost, id: Date.now().toString(), comments: [] }
-    ]);
     fetch(url, {
       method: "POST",
       headers: {

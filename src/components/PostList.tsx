@@ -1,4 +1,3 @@
-// import React, { useState, useEffect } from "react";
 import { IPost } from "../types";
 import Post from "./Post";
 

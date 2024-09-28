@@ -4,7 +4,3 @@ export interface IPost {
   content: string;
   comments: string[];
 }
-// export interface IComment {
-//   id: string;
-//   content: string;
-// }

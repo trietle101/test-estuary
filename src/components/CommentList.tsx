@@ -1,6 +1,4 @@
-// import React, { useState, useEffect } from "react";
 import Comment from "./Comment";
-// import { IComment } from "../types";
 
 export default function CommentList({ comments }: { comments: string[] }) {
   return (
