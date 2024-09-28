@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "This is my first post",
+      "content": "This is my first post",
+      "comments": [
+        "great!",
+        "awesome!"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "This is my second post",
+      "content": "This is my second post",
+      "comments": [
+        "excellent!",
+        "fantastic!"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "This is my third post",
+      "content": "This is my third post",
+      "comments": [
+        "terrible!",
+        "awful!",
+        "ewwww"
+      ]
+    },
+    {
+      "id": "1727509543845",
+      "title": "aaaa",
+      "content": "aaaaaa",
+      "comments": [
+        "asd"
+      ]
+    },
+    {
+      "id": "1727510714392",
+      "title": "sss",
+      "content": "sssss",
+      "comments": []
+    },
+    {
+      "id": "1727510751045",
+      "title": "yyy",
+      "content": "yyyyyy",
+      "comments": []
+    }
+  ]
+}
