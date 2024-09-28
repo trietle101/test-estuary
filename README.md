@@ -66,5 +66,3 @@ Using yarn:
 ```bash
 yarn dev
 ```
-
-The Vite development server should now be running at `http://localhost:3000`.
